@@ -10,7 +10,6 @@
  - Philippe Fidalgo
 
 
-
 ## Installation of dependencies
 
 ```
