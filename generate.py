@@ -3,7 +3,7 @@ import torch
 from torch.nn import functional as F
 import numpy as np
 
-#  TODO:  Ce fichier contient les différentes fonction de génération
+# Ce fichier contient les différentes fonction de génération
 
 
 
