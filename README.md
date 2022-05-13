@@ -1,5 +1,7 @@
 # ML_IKSEM
 
+## Topic : Deep Learning - Machine translation 
+
 ## Groupe 4:
  - Lounis BOUAYAD  
  - Kerriche Sarah  
@@ -7,7 +9,7 @@
  - Mehdi Benouzghar 
  - Philippe Fidalgo
  - 
-## Topic : Deep Learning - Machine translation 
+
 
 
 ## Installation of dependencies
